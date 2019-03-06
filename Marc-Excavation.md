@@ -15,8 +15,8 @@ So I used the [Environmental Hazards](https://github.com/dariusk/corpora/blob/ma
 This is how it looks:
 
 <p align="center">
-  <img src="https://github.com/karihigh/s2_artistsinthearchive/blob/master/disastermaps.png?raw=true" align="middle" width="100%">
+  <img src="https://github.com/karihigh/s2_artistsinthearchive/blob/master/disastermaps.png?raw=true" align="middle" width="100%" style="border: 1px solid black">
 </p>
 
 What I would like to do next is add a tooltip to each object so that I can read the title and eventually link them to the actual object in the Library of Congress website. I should also add a year scale for the x axis so it is easier to get a better glance to the data through the years. Also, this definitely doesn't answer my initial question (if natural disaster have increased in time) because the amount of records always increase. And because this is just the search of a word that describes a natural-disaster in the Maps of the Library of Congress, not the actual facts.
-What I can conclude, is that 💧 floods 💧 are the most recurrent thing to Map and thunderstorms aren't (only 1 object found). I would love to take a look at the maps to see what are they telling about natural disasters. 
+What I can conclude, is that 💧 floods 💧 are the most recurrent thing to Map and thunderstorms aren't (only 1 object found). I would love to take a look at the maps to see what are they telling about natural disasters.
